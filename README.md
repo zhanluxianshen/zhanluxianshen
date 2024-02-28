@@ -1,8 +1,8 @@
 ## Hi 👋 I am 湛露先生.
 
-I’m currently working on  **Kubernetes & Containerd & Multi-Cloud** . 
+I’m currently working on  **Golang & Kubernetes & CNCF** . 
+I’m used to be working on  **Java & Php & Python** . 
 
-Certificate: [**CKA-2023-02**](https://github.com/zhanluxianshen/zhanluxianshen/blob/master/cka-2023-02-25.png) . 
 
 ![github contribution grid snake animation](https://github.com/zhanluxianshen/zhanluxianshen/blob/output/github-contribution-grid-snake.svg)
 
