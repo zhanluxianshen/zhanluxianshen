@@ -1,0 +1,49 @@
+name: "My GitHub Status"
+icon: "calendar"
+description: "Generate my github status using GitHub Actions"
+inputs:
+  GH_USERNAME:
+    description: "Your GitHub username"
+    default: ${{ github.repository_owner }}
+    required: false
+  STARRED_NUM:
+    description: "The number of starred repos to be shown"
+    default: 10
+    required: false
+  REPOS_NUM:
+    description: "The number of personal repos to be shown. 0 means no limit."
+    default: 0
+    required: false
+  TELEGRAM_TOKEN:
+    description: "Token for telegram bot if needed"
+    default: ""
+    required: false
+  TELEGRAM_CHAT_ID:
+    description: "TG chat ID to send message"
+    default: 0
+    required: false
+  WITH_STARED:
+    description: "If with stared repos"
+    default: true
+    required: false
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+  args:
+    - "-username"
+    - ${{ inputs.GH_USERNAME }}
+    - "-stared"
+    - ${{ inputs.STARRED_NUM }}
+    - "-repos"
+    - ${{ inputs.REPOS_NUM }}
+    - "-tgid"
+    - ${{ inputs.TELEGRAM_CHAT_ID }}
+    - "-tgtoken"
+    - ${{ inputs.TELEGRAM_TOKEN }}
+    - "-withstared"
+    - ${{ inputs.WITH_STARED }}
+
+branding:
+  icon: github
+  color: gray-dark

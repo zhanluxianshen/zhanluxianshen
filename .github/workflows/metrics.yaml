@@ -1,0 +1,22 @@
+name: metrics
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+env:
+  GITHUB_NAME: zhanluxianshen
+  GITHUB_EMAIL: zhanluxianshen@163.com
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: zhanluxianshen
+          template: classic
+          base: header, activity, community

@@ -1,0 +1,29 @@
+name: my-github-status
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+
+env:
+  GITHUB_NAME: zhanluxianshen
+  GITHUB_EMAIL: zhanluxianshen@163.com
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: My GitHub Status
+        uses: zhanluxianshen/zhanluxianshen@master
+        with:
+          GH_USERNAME: zhanluxianshen
+      - name: Push README
+        run: |
+          git config --local user.email "${{ env.GITHUB_EMAIL }}"
+          git config --local user.name "${{ env.GITHUB_NAME }}"
+          git commit -a -m 'docs: update readme.md'
+          git push
