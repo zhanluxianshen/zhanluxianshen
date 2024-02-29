@@ -4,7 +4,7 @@ I’m currently working on  **Golang & Kubernetes & CNCF** .
 
 I’m used to be working on  **Java & Php & Python** . 
 
-I'm from **[yanggangtony](https://github.com/yanggangtony/yanggangtony)** . 
+I'm from **[yanggangtony](https://github.com/yanggangtony)** . 
 
 
 ![github contribution grid snake animation](https://github.com/zhanluxianshen/zhanluxianshen/blob/output/github-contribution-grid-snake.svg)
