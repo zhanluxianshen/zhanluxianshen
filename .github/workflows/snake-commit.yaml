@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *"
   push:
     branches:
-      - main
+      - master
 env:
   GITHUB_NAME: zhanluxianshen
   GITHUB_EMAIL: zhanluxianshen@163.com
