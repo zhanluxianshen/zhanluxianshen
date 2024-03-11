@@ -1,6 +1,6 @@
 ## Hi 👋 I am 湛露先生.
 
-**Senior software engineer** with **a decade of** experience in **cloud infrastructure**, skilled in **Docker**, **Kubernetes**, and **CNCF**. 
+**Senior software engineer** with **a decade of** experience in **cloud infrastructure**, skilled in **Docker**, **Kubernetes**, and **CNCF Projects**. 
 
 Played a **key role** in the migration and management of a cloud solution that now **supports over 100 enterprise** clients, leading to a **50% reduction in on-premise costs**. 
 
