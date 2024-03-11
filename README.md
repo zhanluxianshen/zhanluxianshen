@@ -24,11 +24,11 @@
 ## The repos I stared (random 10)
 | ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [operator-sdk](https://github.com/operator-framework/operator-sdk) | 2024-02-28 | Go       | 2024-03-10   |
-|  2 | [kubernetes](https://github.com/kubernetes/kubernetes)             | 2024-02-28 | Go       | 2024-03-11   |
-|  3 | [go-zero](https://github.com/zeromicro/go-zero)                    | 2024-02-28 | Go       | 2024-03-11   |
-|  4 | [runc](https://github.com/opencontainers/runc)                     | 2024-02-28 | Go       | 2024-03-09   |
-|  5 | [containerd](https://github.com/containerd/containerd)             | 2024-02-28 | Go       | 2024-03-10   |
+|  1 | [go-zero](https://github.com/zeromicro/go-zero)                    | 2024-02-28 | Go       | 2024-03-11   |
+|  2 | [runc](https://github.com/opencontainers/runc)                     | 2024-02-28 | Go       | 2024-03-11   |
+|  3 | [operator-sdk](https://github.com/operator-framework/operator-sdk) | 2024-02-28 | Go       | 2024-03-11   |
+|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)             | 2024-02-28 | Go       | 2024-03-11   |
+|  5 | [containerd](https://github.com/containerd/containerd)             | 2024-02-28 | Go       | 2024-03-11   |
 
 <!--END_SECTION:my_github-->
 
