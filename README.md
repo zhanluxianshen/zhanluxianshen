@@ -26,13 +26,8 @@ Recognized with the **'Best Technical Achievement'** award for optimizing **clou
 | sum |                                                        |                                                                  |                                                                  |                                                                                     4 |
 
 ## The repos I stared (random 10)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [operator-sdk](https://github.com/operator-framework/operator-sdk) | 2024-02-28 | Go       | 2024-03-12   |
-|  2 | [runc](https://github.com/opencontainers/runc)                     | 2024-02-28 | Go       | 2024-03-12   |
-|  3 | [containerd](https://github.com/containerd/containerd)             | 2024-02-28 | Go       | 2024-03-12   |
-|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)             | 2024-02-28 | Go       | 2024-03-13   |
-|  5 | [go-zero](https://github.com/zeromicro/go-zero)                    | 2024-02-28 | Go       | 2024-03-12   |
+| ID | REPO | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------|------------|----------|--------------|
 
 <!--END_SECTION:my_github-->
 
