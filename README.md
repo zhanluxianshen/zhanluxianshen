@@ -1,6 +1,10 @@
 ## Hi 👋 I am 湛露先生.
 
-## I am from repo [yanggangtony](https://github.com/yanggangtony) 。
+I’m currently working on **Golang** & **Kubernetes** & **Containerd** & **Multi-Cloud** .
+
+I’m used to be working on **Java** & **Php** & **Python** .
+
+I love **Linux** , and always a **Back-End Engineer** .
 
 ![github contribution grid snake animation](https://github.com/zhanluxianshen/zhanluxianshen/blob/output/github-contribution-grid-snake.svg)
 
