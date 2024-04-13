@@ -2,7 +2,7 @@
 
 I’m currently working on **Golang** & **Kubernetes** & **Containerd** & **Multi-Cloud** .
 
-I’m used to be working on **Java** & **Php** & **Python** .
+I’m used to be working on **Java** & **Php** & **Python** , used to be focus on **Microservice Architecture** and **Struts、Spring、Hibernate、Laravel、Symfony、Django、Flask**.
 
 I love **Linux** , and always a **Back-End Engineer** .
 
