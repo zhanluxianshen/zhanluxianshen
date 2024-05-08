@@ -1,8 +1,8 @@
 ## Hi 👋 I am 湛露先生.
 
-I’m currently working on **Golang** & **Kubernetes** & **Containerd** & **Multi-Cloud** .
+I’m currently working on **Golang** & **Kubernetes** & **Chaos Engineering**  .
 
-I’m used to be working on **Java** & **Php** & **Python** , focus on **Microservice Architecture** and **Struts、Spring、Hibernate、Laravel、Symfony、Django、Flask** frameworks.
+I’m used to be working on **Java** & **Php** & **Python** .
 
 I love **Linux** , and always a **Back-End Engineer** .
 
