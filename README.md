@@ -6,7 +6,7 @@ I’m used to be working on **Java** & **Php** & **Python** .
 
 I love **Linux** , and always a **Back-End Engineer** .
 
-My previous **github account** was [yanggangtony](https://github.com/yanggangtony) .
+My previous **github account** was [tony](https://github.com/yanggangtony) .
 
 ![github contribution grid snake animation](https://github.com/zhanluxianshen/zhanluxianshen/blob/output/github-contribution-grid-snake.svg)
 
