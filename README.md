@@ -1,6 +1,6 @@
 ## Hi 👋 I am 湛露先生.
 
-I’m currently working on **golang** & **linux** & **kubernetes** & **docker** & **runc** & **containerd** & **cncf projects**  .
+I’m currently working on **Golang** & **Linux** .
 
 I’m used to be working on **Java** & **Php** & **Python** .
 
