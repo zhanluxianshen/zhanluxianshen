@@ -1,12 +1,8 @@
 ## Hi 👋 I am 湛露先生.
 
-I’m currently working on **Rust** & **Golang** .
+ **人生如逆旅，我亦是行人，但愿初相遇，不负有心人.** .
 
-I’m used to be working on **Java** & **Php** & **Python** .
-
-I love **Linux** , and always a **Back-End Engineer** .
-
-My previous **github account** was [Tony](https://github.com/yanggangtony) .
+ **前github账号:**  [Tony](https://github.com/yanggangtony) .
 
 ![github contribution grid snake animation](https://github.com/zhanluxianshen/zhanluxianshen/blob/output/github-contribution-grid-snake.svg)
 
