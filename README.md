@@ -2,8 +2,6 @@
 
 人生如**逆旅**，我**亦是**行人.
 
- **前github账号:**  [Tony](https://github.com/yanggangtony) .
-
 ![github contribution grid snake animation](https://github.com/zhanluxianshen/zhanluxianshen/blob/output/github-contribution-grid-snake.svg)
 
 ![Metrics](https://github.com/zhanluxianshen/zhanluxianshen/blob/master/github-metrics.svg)
