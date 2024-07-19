@@ -2,7 +2,7 @@ name: snake-commit
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 1,5"
+    - cron: "0 0 * * 2"
   push:
     branches:
       - master
