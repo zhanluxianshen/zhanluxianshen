@@ -1,6 +1,6 @@
 ## Hi 👋 
 
-**士兵**只忠于**将军**，不忠于**皇帝**，除非**皇帝**重赏过**士兵**。
+君子藏器于身，待时而动。
 
 ![github contribution grid snake animation](https://github.com/zhanluxianshen/zhanluxianshen/blob/output/github-contribution-grid-snake.svg)
 
