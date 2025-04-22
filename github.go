@@ -289,11 +289,12 @@ func makeMdTable(data [][]string, header []string, limit int) string {
 	table.SetHeader(header)
 	table.SetBorders(tablewriter.Border{Left: true, Top: false, Right: true, Bottom: false})
 	table.SetCenterSeparator("|")
-	if limit != 1 {
-		table.AppendBulk(data[:limit])
-	} else {
-		table.AppendBulk(data)
-	}
+	// if limit != 1 {
+	// 	table.AppendBulk(data[:limit])
+	// } else {
+	// 	table.AppendBulk(data)
+	// }
+	table.AppendBulk(data)
 	table.Render()
 	return tableString.String()
 }
